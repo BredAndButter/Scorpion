@@ -1,0 +1,3 @@
+let a = "This is a variable string"
+print a
+print "Hiya Georgie!"
